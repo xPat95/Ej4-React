@@ -61,7 +61,7 @@ const barcelonaItems = [
   },
   {
     id: 'marc-bernal',
-    name: 'Barc Bernal',
+    name: 'Marc Bernal',
     position: 'Mediocampista',
     number: 22,
     nationality: 'Española',
